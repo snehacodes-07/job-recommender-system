@@ -1,23 +1,23 @@
 # Job Recommender System
 
-# Overview
+## Overview
 
 The Job Recommender System is a web-based application that helps users find relevant job opportunities based on their skills and preferences.
 
-# Features
+## Features
 
 * Search jobs based on user input
 * Dataset-based filtering
 * Simple and user-friendly interface
 
-# Tech Stack
+## Tech Stack
 
 * Python
 * Flask
 * HTML, CSS
 * CSV Dataset
 
-# Project Structure
+## Project Structure
 
 job-recommender-system/
 │── dataset/
@@ -26,23 +26,23 @@ job-recommender-system/
 │── app.py
 │── README.md
 
-# Setup
+## Setup
 
 git clone https://github.com/your-username/job-recommender-system.git
 cd job-recommender-system
 pip install flask pandas
 python app.py
 
-# Run
+## Run
 
 http://127.0.0.1:5000/
 
-# Future Improvements
+## Future Improvements
 
 * Add ML-based recommendations
 * Improve UI
 * Add login system
 
-# Author
+## Author
 
 Sneha Chakraborty
